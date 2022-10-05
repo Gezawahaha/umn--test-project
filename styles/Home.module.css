@@ -108,6 +108,12 @@
   margin-left: 0.5rem;
 }
 
+.logoG {
+  height: 1em;
+  background-color: #0070f3;
+  margin-left: 1rem;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
