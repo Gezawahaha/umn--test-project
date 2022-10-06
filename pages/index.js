@@ -2,7 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import { useState } from 'react'
 import Loading from '../components/Loading'
-import PelangarList from '../components/pelangarList'
+import PelangarList from '../components/PelangarList'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
